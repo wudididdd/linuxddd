@@ -1,1 +1,2 @@
 # linuxddd
+personal linux kernel
